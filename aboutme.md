@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Get to know me slightly more
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Ridley and was born and raised in Atlanta but currently living/working in San Francisco. I've been known to skip the small talk and ask questions as if I've known you for years. I love the little things in life and don't take one day for granted. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### How my past managers would describe me
+- Impressionable
+- Data driven
+- Relentlessly positive
+- Curious
 
-What else do you need?
 
-### my history
+### Typical questions my friends ask me 
+- "Hey, can you help me pull this data?"
+- "Do you have any good questions I can ask during my upcoming interview?"
+- "Are you really staying in again tonight?"
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Fun Facts
+
+- [Tan France](https://www.tanfrance.com/) is my style icon
+- [Daniel Ceasar's NPR Tiny Desk concert](https://www.youtube.com/watch?v=PBKa-AAy_vo) is the only thing you need in your life.
+
